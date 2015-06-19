@@ -1,0 +1,4 @@
+include README.txt
+include LICENSE.txt
+include setup.py
+include nose_cov.py
